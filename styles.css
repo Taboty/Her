@@ -2,6 +2,7 @@
 header {
   background-color: aqua;
   height: 80px;
+  background-position: center;
   background-repeat: no-repeat;
 }
 body {
@@ -18,6 +19,7 @@ nav, section, aside {
 footer {
   background-color: aqua;
   height: 80px;
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
 }
