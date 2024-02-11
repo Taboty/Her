@@ -6,6 +6,7 @@ body {
 }
 
 header, nav, section, aside, footer {
+    background-color: royalblue ;
     margin: 10px;
     padding: 10px;
     border: 1px solid #ccc;
