@@ -1,0 +1,19 @@
+/* Add your CSS styles here for a visually appealing layout */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, section, aside, footer {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add more styles as needed */
