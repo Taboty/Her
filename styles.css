@@ -1,6 +1,6 @@
 /* Add your CSS styles here for a visually appealing layout */
 header {
-  background-color: royalblue;
+  background-color: aqua;
   height: 80px;
   background-repeat: no-repeat;
 }
@@ -10,10 +10,16 @@ body {
     padding: 0;
 }
 
-nav, section, aside, footer {
+nav, section, aside {
     margin: 10px;
     padding: 10px;
     border: 1px solid #ccc;
+}
+footer {
+  background-color: aqua;
+  height: 80px;
+  background-repeat: no-repeat;
+  text-align: center;
 }
 
 img {
