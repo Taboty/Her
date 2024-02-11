@@ -2,7 +2,7 @@
 header {
   background-color: royalblue;
   height: 80px;
-  
+  background-repeat: no-repeat;
 }
 body {
     font-family: 'Arial', sans-serif;
