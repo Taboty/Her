@@ -1,12 +1,16 @@
 /* Add your CSS styles here for a visually appealing layout */
+header {
+  background-color: royalblue;
+  height: 80px;
+  
+}
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
 }
 
-header, nav, section, aside, footer {
-    background-color: royalblue ;
+nav, section, aside, footer {
     margin: 10px;
     padding: 10px;
     border: 1px solid #ccc;
